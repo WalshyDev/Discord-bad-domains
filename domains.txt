@@ -28,6 +28,7 @@ app-discord.com
 app-discord.ru
 app-nitro.com
 application-discord.com
+appnitro-discord.com
 appnitro-discord.ru.com
 apps-discord.org
 apps-nitro.com
@@ -201,6 +202,7 @@ derimonz.xyz
 derwoood.xyz
 dfiscord.com
 diacord.com
+diacord.com
 diacordapp.com
 diascord.com
 diccrd.com
@@ -253,6 +255,7 @@ diisscord.club
 diisscord.online
 dijscord.com
 dilscord.com
+dilscordl.com
 dilscordl.com
 dioscord.com
 diqscordapp.com
@@ -310,6 +313,7 @@ discod.fun
 discod.gift
 discod.info
 discod.tech
+discodapp.com
 discodapp.com
 discodapp.gift
 discodapp.net
@@ -462,6 +466,7 @@ discord-controls.com
 discord-cpp.com
 discord-develop.com
 discord-developer.com
+discord-developers.com
 discord-devs.com
 discord-dr0p.ru
 discord-drop.gift
@@ -484,6 +489,7 @@ discord-games.cf
 discord-generator.tk
 discord-get.click
 discord-get.ru
+discord-get.shop
 discord-gif.xyz
 discord-gift-free-nitro.tk
 discord-gift-nitro.site
@@ -681,6 +687,7 @@ discord.givaeway.com
 discord.givaewey.com
 discord.giveawey.com
 discord.giveaweys.com
+discord.giveweay.com
 discord.gq
 discord.homes
 discord.in
@@ -719,6 +726,7 @@ discordaoo.com
 discordaop.com
 discordapp.best
 discordapp.biz
+discordapp.chat
 discordapp.chat
 discordapp.click
 discordapp.cloud
@@ -801,6 +809,7 @@ discordgift.ru.com
 discordgift.site
 discordgift.tk
 discordgift.xyz
+discordgifte.com
 discordgifte.site
 discordgifted.xyz
 discordgiftis.ru
@@ -890,6 +899,7 @@ discordnitros.xyz
 discordnitrosteam.com
 discordnltro.com
 discordobs.com
+discordopp.com
 discordopp.com
 discordp.com
 discordp.ml
@@ -1031,6 +1041,7 @@ discrod-up.ru
 discrod.gg
 discrod.gift
 discrod.gifts
+discrod.gifts
 discrod.pw
 discrodapp.ru
 discrodapp.site
@@ -1122,9 +1133,11 @@ dliscord.com
 dliscord.us
 dliscordl.com
 dliscords.com
+dliscords.com
 dliscrd.one
 dlscard.ru
 dlsccrd.com
+dlscocl.xyz
 dlscocrd.club
 dlscocrd.com
 dlscocrdapp.com
@@ -1208,6 +1221,7 @@ dlscordd.ru
 dlscordgift.com
 dlscordgifts.xyz
 dlscordgived.xyz
+dlscordglft.com
 dlscordglft.xyz
 dlscordglfts.xyz
 dlscordniltro.com
@@ -1427,6 +1441,7 @@ gift-g2.ru
 gift-nitro.store
 giftdiscord.info
 giftdiscord.online
+giftes-discord.com
 gifts-discord.xyz
 giftsdiscord.com
 giftsdiscord.fun
@@ -1462,6 +1477,7 @@ hunts.monster
 hydra2018.ru
 hyper-tournament.xyz
 hyperz.monster
+hypesquad-events.com
 hypesquad-events.com
 id-374749.ru
 idiscord.pro
@@ -1619,6 +1635,7 @@ nicegg.ru
 nise-win.xyz
 nitrlooss-free.ru
 nitro-airdrop.org
+nitro-app-store.com
 nitro-app.com
 nitro-app.fun
 nitro-discord.fun
@@ -1689,6 +1706,7 @@ prajyoth.me
 prefix.net.ru
 premium-discord.com
 premium-discords.com
+premiums-discord.com
 premiums-discord.com
 price-claim.xyz
 profile-442572242.online
@@ -2217,6 +2235,7 @@ steam-hometrades.xyz
 steam-hype.com
 steam-login1.xyz
 steam-money.org
+steam-nitro.online
 steam-nitro.ru
 steam-nitro.store
 steam-nitros.com
