@@ -18,4 +18,4 @@ This will check against the bad domain list and if it's a match, update the list
 Unlimited access to `bad-domains.json` and `domains.txt` with the following endpoints:
 
 * GET https://bad-domains.walshy.dev/bad-domains.json
-* GET https://bad-domains.walshy.dev/domains.txt
+* GET https://bad-domains.walshy.dev/domains.txt (or https://bad-domains.walshy.dev/domains.json if you prefer)
