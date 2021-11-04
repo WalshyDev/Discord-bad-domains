@@ -13,3 +13,9 @@ Content-Type: application/json
 ```
 
 This will check against the bad domain list and if it's a match, update the list.
+
+## Access the lists
+Unlimited access to `bad-domains.json` and `domains.txt` with the following endpoints:
+
+* GET https://bad-domains.walshy.dev/bad-domains.json
+* GET https://bad-domains.walshy.dev/domains.txt
