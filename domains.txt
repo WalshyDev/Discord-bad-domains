@@ -363,6 +363,7 @@ discorcd.gift
 discorcd.gifts
 discorcd.site
 discorcdapp.com
+discorci.fun
 discorcl-air.xyz
 discorcl-app.com
 discorcl-app.fun
@@ -1749,6 +1750,7 @@ nitrodlscordz.com
 nitrodlscordz.com
 nitrodlscordz.xyz
 nitrogeneral.ru
+nitrogensports.eu
 nitrogift.xyz
 nitrogive.com
 nitroos-frieie.ru
