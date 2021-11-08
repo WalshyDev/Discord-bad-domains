@@ -224,6 +224,7 @@ dicsord-app.com
 dicsord-gift.com
 dicsord-give.com
 dicsord-gives.com
+dicsord-hypesquad.com
 dicsord-hypesquads.com
 dicsord-nitro.com
 dicsord-nitro.ru
@@ -272,6 +273,7 @@ disbored.com
 disc-ord.com
 disc.cool
 disc.gifts
+disc.ord.gg
 disc0rd-app.ru.com
 disc0rd-nitro.site
 disc0rd.org
@@ -1727,6 +1729,7 @@ nitro-discord.org
 nitro-discord.ru.com
 nitro-discordapp.com
 nitro-discords.com
+nitro-discrod.me
 nitro-drop.com
 nitro-from-steam.com
 nitro-gift.ru.com
