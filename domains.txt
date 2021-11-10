@@ -28,6 +28,7 @@ app-discord.com
 app-discord.ru
 app-nitro.com
 application-discord.com
+applications-discord.com
 appnitro-discord.com
 appnitro-discord.ru.com
 apps-discord.org
@@ -369,6 +370,7 @@ discorcd.site
 discorcdapp.com
 discorci.fun
 discorcl-air.xyz
+discorcl-airdrop.ru
 discorcl-app.com
 discorcl-app.fun
 discorcl-app.ru
@@ -1574,6 +1576,7 @@ idiscord.pro
 imvu37.blogspot.com
 indereyn.ru.com
 information-discord.com
+informations-discord.com
 intimki.com
 into-nitro.com
 iscord.gift
@@ -2326,6 +2329,7 @@ steam-csgogame.ru
 steam-csgoplay.ru
 steam-discord.com
 steam-discord.ru
+steam-discordnitro.ru
 steam-discords.com
 steam-dlscord.com
 steam-event.com
