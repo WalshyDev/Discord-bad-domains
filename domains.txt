@@ -288,6 +288,7 @@ discard.gift
 discard.xyz
 discardapp.fun
 disccor.com
+disccord-gift.com
 disccord.gg
 disccord.ru.com
 disccord.shop
@@ -835,6 +836,7 @@ discordf.com
 discordf.gift
 discordfree.com
 discordfrnitro.site
+discordg.link
 discordgame.com
 discordgamers.co.uk
 discordgg.com
@@ -1189,12 +1191,14 @@ dliscord-giveaway.ru
 dliscord-glft.ru.com
 dliscord-nitro.com
 dliscord.com
+dliscord.gift
 dliscord.us
 dliscordl.com
 dliscords.com
 dliscords.com
 dliscrd.one
 dlscard.ru
+dlsccord-app.com
 dlsccord-apps.club
 dlsccordclub.com
 dlsccrd.com
@@ -1336,6 +1340,7 @@ dlscorp.com
 dlscourd.info
 dlscrod-app.xyz
 dlscrodapp.ru
+dlsscord-apps.club
 dmarkef.com
 dogewarrior-giveaway.info
 dominosllc.com
