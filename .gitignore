@@ -1,5 +1,1 @@
-/node_modules/
-/worker/
-package.json
-package-lock.json
-index.js
+/scripts/node_modules/
