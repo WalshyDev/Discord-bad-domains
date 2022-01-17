@@ -3,7 +3,7 @@
 This repo holds three lists; Discord's "bad domains" list with the associated domain (if found), my list of phishing/scamming sites and my list with their hashes.
 
 ## Developer or Bot Developer?
-If you wish to check against the list for auto-banning you can with: \
+If you wish to check against the list for auto-banning you can with:
 ```
 POST https://bad-domains.walshy.dev/check
 
