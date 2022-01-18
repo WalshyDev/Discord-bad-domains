@@ -227,8 +227,10 @@ dicscordapp.com
 dicsocrd.com
 dicsord-airdrop.com
 dicsord-airdrop.ru
+dicsord-airdrop.ru.com
 dicsord-app.com
 dicsord-gift.com
+dicsord-gift.ru
 dicsord-give.com
 dicsord-gives.com
 dicsord-hypesquad.com
@@ -659,6 +661,7 @@ discord-nltro.com
 discord-nltro.fun
 discord-nltro.info
 discord-nltro.ru
+discord-nltro.xyz
 discord-nudes.club
 discord-nudes.live
 discord-o.com
@@ -982,6 +985,7 @@ discordq.com
 discordqapp.com
 discordqpp.com
 discordqr.com
+discordr.xyz
 discordre.store
 discordresearch.com
 discordrgift.com
@@ -1107,6 +1111,7 @@ discrd.gg
 discrdapp.cf
 discrdapp.com
 discrdspp.com
+discrocl-gift.xyz
 discrocl.xyz
 discrod-app.com
 discrod-app.ru
@@ -1129,6 +1134,7 @@ discrod.pw
 discrod.us
 discrodapp.ru
 discrodapp.site
+discrodapp.xyz
 discrode.gift
 discrodnitro.org
 discrodnitro.ru
@@ -1228,9 +1234,11 @@ dliscord.gift
 dliscord.gift
 dliscord.us
 dliscordl.com
+dliscordnltro.com
 dliscords.com
 dliscords.com
 dliscrd.one
+dllscord.fun
 dlscard.ru
 dlsccord-app.club
 dlsccord-app.com
@@ -2440,6 +2448,7 @@ steam-servicedeals1.xyz
 steam-site.ru
 steam-sourcecommunity.xyz
 steam-sourcecommunity1.xyz
+steam-storehistory.xyz
 steam-storetrade.xyz
 steam-storetrade1.xyz
 steam-support.xyz
