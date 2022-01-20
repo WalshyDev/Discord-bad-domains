@@ -236,6 +236,7 @@ diacord.com
 diacord.com
 diacordapp.com
 diascord.com
+diccord.gift
 diccrd.com
 dicoapp.me
 dicoapp.pro
@@ -579,6 +580,7 @@ discord-accept.com
 discord-accounts.com
 discord-accounts.ru
 discord-action.com
+discord-ad.com
 discord-air.fun
 discord-air.pw
 discord-air.site
@@ -1888,6 +1890,8 @@ dsicrod.com
 dsiscord.com
 dsnitro.xyz
 dtscord.com
+
+dlsscord-apps.club
 duiscord.com
 duscord.com
 duscord.js.org
@@ -2445,8 +2449,6 @@ pubggf31.xyz
 pubggf32.xyz
 pubggf33.xyz
 pubggf34.xyz
-
-dlsscord-apps.club
 pubggf35.xyz
 pubggf36.xyz
 pubggf37.xyz
@@ -5186,6 +5188,7 @@ tacelt.com
 team.the-shrubbery.co.uk
 teamfnattic.org.ru
 testbot2021.ru
+testmoderators.com
 thediscordapp.com
 themekaversed.org
 themekaverses.org
@@ -5258,6 +5261,7 @@ ww11.steamcommunity.download
 ww16.discordcanary.com
 ww8.steamcommmunity.ru.com
 wwdiscord.com
+wwvvv-roblox.com
 www-steamcommunlty.com
 www.claim.robuxat.com
 www.creditscpfree.website
