@@ -1533,6 +1533,7 @@ disord.gifts
 disordapp.codes
 disordapp.gift
 disordapp.gifts
+disorde.gift
 disordgift.codes
 disordgift.com
 disordgifts.com
@@ -1855,6 +1856,7 @@ dlsordnltros.com
 dlsordnltros.gifts
 dlsscord-app.club
 dlsscord-apps.club
+dlsscord-apps.club
 dmarkef.com
 dogewarrior-giveaway.info
 dominosllc.com
@@ -2113,6 +2115,7 @@ glft-discord.com
 glob21.online
 globalcs.monster
 go-cs.ru.com
+go-discord.com
 gocsx8.ru
 gocups.ru
 good-csgo-steam.ru
@@ -2262,6 +2265,7 @@ natus-win.pp.ru
 natusspot.pp.ru
 natustop.net.ru
 nav-s1.ru
+navi-drop.com
 navi-drop.net
 navi-drop2020.com
 navi-esl.ru.com
@@ -2370,6 +2374,7 @@ nitrosgift.com
 nitrospromotions.com
 nitrosteamf.com
 nitrosteami.com
+nitrosteamj.com
 nitrostore.org
 nitrotypehack.club
 nltro.com
@@ -2494,7 +2499,6 @@ quiz-discord.com
 rblxcorp.work
 rbux88.com
 rbux88go.com
-dlsscord-apps.club
 rbxfree.com
 realskins.xyz
 realtorg.xyz
