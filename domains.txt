@@ -1225,6 +1225,7 @@ discordme.me
 discordmoderations.com
 discordmoon.com
 discordn.gift
+discordnewmods.com
 discordnewyear.com
 discordnitr.ru
 discordnitro-gift.com
@@ -2108,6 +2109,7 @@ gift-g2.online
 gift-g2.ru
 gift-nitro.cc
 gift-nitro.events
+gift-nitro.shop
 gift-nitro.store
 giftdiscord.info
 giftdiscord.online
