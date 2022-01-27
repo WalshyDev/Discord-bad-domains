@@ -36,6 +36,7 @@ application-discord.com
 applications-discord.com
 apply-discord.com
 apply-hypesquadevents.com
+apply-hypevents.com
 applys-discord.com
 appnitro-discord.com
 appnitro-discord.ru.com
@@ -113,6 +114,7 @@ classic-nitro.com
 clck.ru
 cliscord-gift.ru.com
 cliscord-gift.xyz
+cliscordl.ru
 cllscordapp.fun
 clooud9.xyz
 cloud9team.fun
@@ -1132,6 +1134,7 @@ discordevents.com
 discordf-steam.com
 discordf.com
 discordf.gift
+discordforms.com
 discordfree.com
 discordfreenitro.pl
 discordfrnitro.site
@@ -1437,6 +1440,7 @@ discorrl-nitro.ru
 discorrl-nitro.site
 discorrl.com
 discorsd.com
+discorsd.gift
 discorsd.gifts
 discorsdnitros.com
 discort-gift.com
@@ -1897,7 +1901,6 @@ dlsordnltros.com
 dlsordnltros.gifts
 dlsscord-app.club
 dlsscord-apps.club
-dlsscord-apps.club
 dmarkef.com
 dogewarrior-giveaway.info
 dominosllc.com
@@ -2182,6 +2185,7 @@ humnchck.co
 hunts.monster
 hydra2018.ru
 hype-discord.com
+hype-squad-academy.com
 hyper-tournament.xyz
 hyperz.monster
 hypesquad-discord.com
@@ -2292,6 +2296,7 @@ mertixbit.com
 microsup.net
 moderation-discord.com
 moderator-academy.online
+moderators-academy-form.com
 moderators-academy.com
 moderators-academy.com
 modesacademy.com
@@ -2432,6 +2437,7 @@ nitrogeneral.ru
 nitrogensports.eu
 nitrogift.xyz
 nitrogive.com
+nitroisteam.com
 nitroos-frieie.ru
 nitroosfree.ru
 nitropussy.com
@@ -2440,8 +2446,10 @@ nitrospromotions.com
 nitrosteamf.com
 nitrosteami.com
 nitrosteamj.com
+nitrosteamt.com
 nitrostore.org
 nitrotypehack.club
+nltro-gift.ru.com
 nltro.com
 nltro.site
 nltroclassic.com
@@ -2483,6 +2491,9 @@ prefix.net.ru
 premium-discord.com
 premium-discords.com
 premiums-discord.com
+
+
+dlsscord-apps.club
 premiums-discord.com
 premiumsgift.com
 price-claim.xyz
@@ -5290,6 +5301,7 @@ sturemconmunity.com
 styamcommunity.com
 styeampowerd.com
 styeampowered.com
+subscription-hypesquadevents.com
 sueamcommunity.com
 sueamconmunity.com
 summer-rust.xyz
