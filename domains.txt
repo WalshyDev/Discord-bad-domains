@@ -38,6 +38,7 @@ app-discord.com
 app-discord.ru
 app-discordc.com
 app-discords.com
+app-hypesquad.com
 app-hypesquad.online
 app-nitro.com
 application-discord.com
@@ -128,10 +129,12 @@ cashcsgo.ru
 cashout.monster
 cashy.monster
 cave-nitro.com
+cbccke.co
 christmasdiscord.gift
 claim.discordchristmas.com
 claim.robuxat.com
 claimgifts.shop
+claimnitro.cc
 clan-big.ru
 classic-nitro.com
 clck.ru
@@ -364,6 +367,7 @@ diiscordapp.com
 diisscord.club
 diisscord.online
 dijscord.com
+dilscord-gifts.com
 dilscord.com
 dilscord.gift
 dilscord.ru
@@ -566,6 +570,7 @@ discorcl-app.site
 discorcl-app.xyz
 discorcl-apps.ru
 discorcl-boost.ru
+discorcl-club.com
 discorcl-gift.com
 discorcl-gift.org.ru
 discorcl-gift.ru
@@ -714,6 +719,7 @@ discord-epicgames.com
 discord-event.com
 discord-event.info
 discord-events.com
+discord-events.tk
 discord-eventshypesquad.com
 discord-experts.com
 discord-exploits.tk
@@ -794,6 +800,7 @@ discord-give.us
 discord-give.xyz
 discord-giveawary.ru
 discord-giveaway.com
+discord-giveaway.ru
 discord-giveaways.ru
 discord-gives.ru
 discord-glft.com
@@ -830,6 +837,7 @@ discord-hypesquad-join.com
 discord-hypesquad.cf
 discord-hypesquad.com
 discord-hypesquad.site
+discord-hypesquad.xyz
 discord-hypesquadacademy.com
 discord-hypesquade.com
 discord-hypesquaders.com
@@ -860,12 +868,14 @@ discord-mega.xyz
 discord-mod.com
 discord-moderation-test.com
 discord-moderation.com
+discord-moderations.com
 discord-moderator-academy.com
 discord-moderator-academy.xyz
 discord-moderator-exam.com
 discord-moderator-form.com
 discord-moderator-forms.com
 discord-moderator-formulary.com
+discord-moderator-signup.com
 discord-moderator.app
 discord-moderator.com
 discord-moderator.info
@@ -1379,6 +1389,7 @@ discordpromo.site
 discordpromos.com
 discordpromos.gifts
 discordpromos.us
+discordpromotions.cc
 discordq.com
 discordqapp.com
 discordqlft.xyz
@@ -2054,6 +2065,7 @@ dsnitro.xyz
 dtscord.com
 duiscord.com
 duscord.com
+duscord.ga
 duscord.js.org
 dwaynejon.xyz
 dwny.org
@@ -2215,6 +2227,7 @@ gdiscord.com
 generator.discordnitrogift.com
 gennirto.org
 get-discord.fun
+get-fullnltro.com
 get-fulnltro.com
 get-gamesroll.xyz
 get-my-nitro.com
@@ -2420,6 +2433,7 @@ libra-sale.io
 linktrade.pp.ua
 listycommunity.ru
 lkdiscord.com
+log-in-hypesquad.com
 loginrun.info
 longxrun.online
 loot-conveyor.com
@@ -2481,6 +2495,7 @@ moderator-school.com
 moderator-survey.info
 moderator-team.com
 moderator-test.com
+moderator-vote.com
 moderatoracademy.info
 moderatoracademyinvite.com
 moderatordiscord.com
