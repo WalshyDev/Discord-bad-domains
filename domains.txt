@@ -6959,6 +6959,7 @@ styamcommunity.com
 styeampowerd.com
 styeampowered.com
 sub-moderator.com
+subscribe-moderator.com
 subscription-discord-developers.com
 subscription-hypesquadevents.com
 subscription-hypesquadevents.com
@@ -6971,6 +6972,9 @@ summer-rust.xyz
 support-moderator.com
 support-safety.contact
 supportmoderatoracademy.com
+sushi-app.com
+sushi-v3.com
+sushi-v3app.com
 swapskins.ga
 syncappencryptconnect.ru
 taceitt.com
@@ -6994,6 +6998,7 @@ testmoderators.com
 thediscordapp.com
 themekaversed.org
 themekaverses.org
+thetatokenfund.com
 think-when.xyz
 thor-case.net.ru
 tik-team-topp.org.ru
@@ -7024,6 +7029,7 @@ truepnl-giveaway.info
 trustpool.xyz
 ttr-discord.com
 ttr-discord.ru.com
+twitch-drop.com
 twitch-facepunch.quest
 twitch-nude.com
 twitch-rust.com
@@ -7055,6 +7061,7 @@ viwwzaguls.xyz
 viwwzagulw.xyz
 viwwzaguly.xyz
 vkbonus.club
+vote-academymod.com
 vote-academymoderators.com
 vote-hypesquad.com
 vote-hypesquad.online
@@ -7147,6 +7154,7 @@ xdiscord.com
 xesa-nitro.com
 xess-nitro.com
 xfxcheats.online
+xn--discrd-zxa.com
 xpro.gift
 xpro.ws
 xpromo-discord.com
