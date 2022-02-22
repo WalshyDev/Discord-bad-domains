@@ -145,6 +145,7 @@ astrallis.net.ru
 astresports.xyz
 aucryptohubs.com
 auth-discord.com
+authenticatetxn.net
 authnet.cf
 autumnbot.cloud
 avalanche-network.com
@@ -460,6 +461,7 @@ dicsord-presents.ru
 dicsord-steamgift.com
 dicsord-ticket.com
 dicsord.gg
+dicsord.gift
 dicsord.gifts
 dicsord.net
 dicsord.pl
@@ -1022,6 +1024,7 @@ discord-gift.co
 discord-gift.com
 discord-gift.info
 discord-gift.me
+discord-gift.net
 discord-gift.net.ru
 discord-gift.online
 discord-gift.org.ru
@@ -1827,6 +1830,7 @@ discordnitro.codes
 discordnitro.com
 discordnitro.fun
 discordnitro.gift
+discordnitro.gifts
 discordnitro.info
 discordnitro.io
 discordnitro.link
@@ -2052,6 +2056,7 @@ discorld-gift.site
 discorld-gift.xyz
 discorld.com
 discorld.gift
+discorld.gifts
 discorld.ru
 discorld.site
 discorll.com
@@ -3366,6 +3371,7 @@ lan-pro.fun
 lan-pro.link
 lan-pro.ru
 lan-pro.xyz
+larva-labs.net
 larvaslab.com
 lazarusgamer.xyz
 lazarustower.com
@@ -3424,6 +3430,7 @@ magik-dr0p.fun
 magnaviroll.xyz
 magnavirolls.xyz
 magnavirollz.xyz
+mangomarkets.net
 market-subito.site
 marketsleam.xyz
 mcdaonlds.com
@@ -3455,6 +3462,7 @@ message-moderators-events.com
 message-moderators.com
 metabayc.us
 microsup.net
+mineofdalarnia.net
 mod-academy-invite.com
 mod-academy.com
 mod-academy.xyz
@@ -3872,7 +3880,9 @@ olympusdao.fund
 onehave.xyz
 opencase.space
 openseaevent.com
+openseaio.net
 openseatoken.sale
+openseea.net
 operation-broken.xyz
 operation-pass.ru.com
 operation-riptide.ru.com
@@ -3927,6 +3937,7 @@ program-hypesquad.com
 program-moderators-academy.com
 programhypesquad-events.com
 programs-moderator.com
+projectsserum.net
 promo-codes.world
 promo-discord.com
 promo-discord.site
@@ -4004,6 +4015,7 @@ qcoldteam.life
 quick-cup.xyz
 quickrobux.net
 quiz-discord.com
+rareble.net
 rblxcorp.work
 rbux88.com
 rbux88go.com
@@ -4187,6 +4199,7 @@ services.runescape.rs-ui.xyz
 setamcommunity.com
 share.nowblox.com
 shib.events
+sia-tech.net
 sieamcommunity.net.ru
 sieamcommunity.org.ru
 signup-academy-moderator.com
@@ -7054,6 +7067,7 @@ streamcummunlty.com
 streamcummunlty.xyz
 streamecommuniity.com
 streamecommunity.com
+streaming-server.net
 streammcommunity.ru
 streammcomuniitty.ru
 streammcomuniity.ru
@@ -7316,4 +7330,5 @@ xpro.ws
 xpromo-discord.com
 yummy-nitro.com
 z93729n9.beget.tech
+zed-run.net
 zipsetgo.com
