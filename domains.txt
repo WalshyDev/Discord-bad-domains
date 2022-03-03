@@ -1547,6 +1547,7 @@ discordapp-moderators.com
 discordapp.best
 discordapp.biz
 discordapp.cc
+discordapp.cf
 discordapp.chat
 discordapp.click
 discordapp.cloud
@@ -1590,6 +1591,7 @@ discordappo.com
 discordappp.com
 discordappp.net
 discordappporn.chat
+discordapps.co
 discordapps.gift
 discordapps.gifts
 discordappss.com
