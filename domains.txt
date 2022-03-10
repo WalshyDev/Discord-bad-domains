@@ -442,6 +442,8 @@ developers-discord.com
 developers-info.com
 developers-intent.com
 developers-intents.com
+developers-moderator.team
+developers-moderators.com
 devloper-team.info
 devlopers.info
 dfiscord.com
