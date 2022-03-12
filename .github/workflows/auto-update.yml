@@ -15,8 +15,8 @@ jobs:
           node-version: 17
       - name: 'Run my scripts'
         run: |
-          git config user.name "GitHub Actions Bot"
-          git config user.email "<>"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           cd scripts
           npm ci
           npm run update
