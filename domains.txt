@@ -1627,7 +1627,6 @@ discord.istanbul
 discord.join-hypesquad-events.repl.co
 discord.kaiograbber.repl.co
 discord.limited
-discord.limited
 discord.link
 discord.lossantossanto1.repl.co
 discord.ltd
@@ -2300,7 +2299,6 @@ discorrl-nitro.ru
 discorrl-nitro.site
 discorrl.com
 discorsd.com
-discorsd.gift
 discorsd.gift
 discorsd.gifts
 discorsdnitros.com
@@ -4066,7 +4064,6 @@ moderatorjoin.com
 moderators-academy-discord.com
 moderators-academy-events.com
 moderators-academy-examy.com
-moderators-academy-form.com
 moderators-academy-form.com
 moderators-academy-forms.com
 moderators-academy-hype-events.com
@@ -7794,7 +7791,6 @@ subscribe-moderator.com
 subscription-academy.com
 subscription-discord-developers.com
 subscription-formulary-hypesquadevents.com
-subscription-hypesquadevents.com
 subscription-hypesquadevents.com
 subscription-moderations.com
 subscription-moderator.com
