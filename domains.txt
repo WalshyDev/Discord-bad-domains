@@ -46,6 +46,7 @@ academy-moderators-formulary.com
 academy-moderators-hypesquad.com
 academy-moderators-singup.com
 academy-moderators-test.com
+academy-partner-signup.com
 academy-partner.com
 academy-partners.com
 academy-renew-moderators.com
@@ -258,6 +259,7 @@ boostnitro.com
 boostnitrogift.com
 boostnltro.com
 boosts-nitro.com
+boosts.shop
 boostsnitro.shop
 boredapeyachtclub.website
 boredyatch.club
@@ -1596,6 +1598,7 @@ discord-squad.com
 discord-st.com
 discord-staff.club
 discord-staff.com
+discord-staff.ru
 discord-staffs.com
 discord-stat.com
 discord-stats.org
@@ -2681,6 +2684,7 @@ discsrclapp.com
 discsrd.com
 discsrdapp.com
 discurcd.com
+discurd.com
 discurd.js.org
 discvordapp.com
 discwrd.com
@@ -3477,6 +3481,7 @@ formhypesquadevents.com
 forms-academy-moderator.com
 forms-academy-moderator.repl.co
 forms-academy-moderators.com
+forms-events-moderator.com
 forms-hypesquad-events.com
 forms-hypesquad.com
 forms-moderations.com
@@ -4073,6 +4078,7 @@ invitebughunter.com
 invited-moderator-academy.com
 invitemoderator.com
 invitemoderatordiscord.com
+invitemoderatordiscord.com
 invitemoderatorinstitute.com
 inviter-moderator-academy.com
 iron-nitro.com
@@ -4375,6 +4381,7 @@ moderationacademy.repl.co
 moderationaplly.stefanuu.repl.co
 moderationaplly.stefanuuamluatg.repl.co
 moderationexam.com
+moderationprogram.com
 moderations-school.com
 moderations-supporter.com
 moderator-academy-apply.com
@@ -4480,6 +4487,7 @@ moderator-test.com
 moderator-tester.com
 moderator-testers.com
 moderator-tests.com
+moderator-verified-school.com
 moderator-vote.com
 moderator.academy-panel.repl.co
 moderator.team
@@ -4947,6 +4955,7 @@ prefix.net.ru
 preimumgift-ds.com
 premium-discord.com
 premium-discords.com
+premium-egift.com
 premiumdiscord.com
 premiums-discord.com
 premiums-nitro.com
@@ -5331,6 +5340,7 @@ signup-hypesquadevents.com
 signup-hypessquad.com
 signup-mod.com
 signup-moderadordiscord.com
+signup-moderation.com
 signup-moderator-form.com
 signup-moderator-teams.com
 signup-moderator.com
