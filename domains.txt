@@ -12,6 +12,7 @@
 3ds-security.xyz
 3month-get.com
 3month-give.com
+3month-premium.com
 aabeta.phxwolf.com
 aave-v3.com
 abardon.net.ru
@@ -330,6 +331,7 @@ bycsdu.cam
 bysellers.xyz
 c-nft.net
 candidfancyactiveserverpages.academypartners.repl.co
+captcha-bot.org
 cardgen.uno
 case-gift.com
 case-give.com
@@ -442,6 +444,7 @@ connect-newhypesquad-events.com
 connect-tester-moderators-academy.com
 connect-testers-academy-moderator.com
 connect-testers-academy.com
+connect-testers-forms-moderator.com
 connect-testers-moderator-new.com
 connect-testers-moderator.com
 connect-testers-moderators-academy.com
@@ -450,6 +453,7 @@ connect-testers-moderetors.com
 connect-testers-new-academy.com
 connect-testers-new-moderetors.com
 connect-testers-renew-moderetors.com
+connect-testers-renews-academy.com
 connect-testers-renews-moderetor.com
 connect-testers-renews-moderetors.com
 connect-to-discord-moderators.com
@@ -1626,6 +1630,7 @@ discord-moderator-register.com
 discord-moderator-register.tk
 discord-moderator-signup.com
 discord-moderator-sub.com
+discord-moderator-test.com
 discord-moderator.app
 discord-moderator.cf
 discord-moderator.com
@@ -2793,6 +2798,7 @@ discordstream.com
 discordsub.com
 discordsub.online
 discordsubscriptions.com
+discordsuper.link
 discordsupport.crisp.help
 discordsupport.gg
 discordsupport.ru
@@ -2825,6 +2831,7 @@ discordup.ru
 discordus.space
 discordverification.com
 discordwayx.xyz
+discordworks.com
 discordx.link
 discordx.ml
 discordx.shop
@@ -2864,6 +2871,7 @@ discorol-app.com
 discorol-apps.com
 discorol.com
 discorolapp.com
+discorp.gift
 discorq.com
 discorrc-apps.com
 discorrd-go.com
@@ -3063,6 +3071,8 @@ diskord.gift
 diskord.org.ru
 diskord.repl.co
 diskord.ru.com
+diskorde.gift
+diskords.com
 diskurd.com
 dislcord.com
 disnitr.com
@@ -3302,6 +3312,7 @@ dlscocrdapp.com
 dlscoed.com
 dlscold.com
 dlscoord-apps.com
+dlscorb.com
 dlscorb.gift
 dlscorcd-nitro.com
 dlscorcl-app.com
@@ -3791,6 +3802,7 @@ encesports.xyz
 ensclaims.app
 enter-discord-events.com
 enter-discord-moderator.com
+enter-hype-academy.com
 enter-hype-squad.com
 enter-hypesquad.com
 enter-hypesquadevent.com
@@ -3890,6 +3902,7 @@ facepnuch.com
 facepunch-award.com
 facepunch-gifts.org.ru
 facepunch-llc.com
+facepunch-rivals.com
 facepunch-twitch.com
 facepunches.com
 facepunchltd.com
@@ -4237,6 +4250,7 @@ gifs-discord.com
 gifs-discorde.com
 gift-1month-nitro.gq
 gift-3month-nitro.gq
+gift-arhive.org
 gift-arhives.org
 gift-dicord.online
 gift-discord.digital
@@ -4250,6 +4264,7 @@ gift-discorde.ru
 gift-discords.com
 gift-dliscord.ru
 gift-dliscord.store
+gift-free.fun
 gift-g2.online
 gift-g2.ru
 gift-nitro.cc
@@ -4299,6 +4314,7 @@ giftsfrom.online
 giftsnitro.com
 giftsu-nitro.gq
 giiveaway-discord.com
+githvub.com
 gitus-nitro.gq
 gitvhub.com
 gitxhub.com
@@ -4370,6 +4386,7 @@ hype-events-secondtry.prabupta.repl.co
 hype-events-support-discord.com
 hype-events.tk
 hype-form.com
+hype-houses.com
 hype-moderators-events-support.com
 hype-squad-academy.com
 hype-squad-application.com
@@ -4539,6 +4556,7 @@ hypesquad-registration.com
 hypesquad-represent.com
 hypesquad-request.com
 hypesquad-rescue-app.com
+hypesquad-rescue.com
 hypesquad-return-discord.com
 hypesquad-return.com
 hypesquad-returned.com
@@ -4608,6 +4626,7 @@ hypesquadevents-forms.com
 hypesquadevents-formulary.com
 hypesquadevents-guild-signup.com
 hypesquadevents-guilde.com
+hypesquadevents-join-academy.com
 hypesquadevents-join-form.com
 hypesquadevents-join-team.com
 hypesquadevents-join-the-team.com
@@ -4723,6 +4742,7 @@ invite-for-hypesquad-new.com
 invite-for-hypesquad-team.com
 invite-for-hypesquadevents.com
 invite-forms-hypesquad.com
+invite-forms-newhypesquad.com
 invite-formulary-hypesquad-events-new.com
 invite-formulary-hypesquadevents.com
 invite-formulary.app
@@ -4742,6 +4762,7 @@ invite-hypesquad-program.com
 invite-hypesquad-programs.com
 invite-hypesquad.com
 invite-hypesquadevents-now.com
+invite-hypesquadevents-program.com
 invite-moderation-discord.com
 invite-moderator-academy.academy
 invite-moderator-academy.net
@@ -4757,6 +4778,7 @@ invite-moderators-events.com
 invite-moderators.com
 invite-new-hypesquad.com
 invite-newhypesquad-program.com
+invite-newhypesquadevents.com
 invite-official-hypesquad.com
 invite-the-formulary-hypesquadevents.com
 invite-the-hypesquad-events.com
@@ -5149,6 +5171,7 @@ moderationacademy.repl.co
 moderationaplly.stefanuu.repl.co
 moderationaplly.stefanuuamluatg.repl.co
 moderationexam.com
+moderationhypesquadevents.com
 moderationprogram.com
 moderations-school.com
 moderations-supporter.com
@@ -5743,6 +5766,7 @@ now-moderators-register.com
 ntrospromotions.com
 nv-box.com
 nv-drop.com
+official-academy-hypesquad.com
 official-event-hypesquad.com
 official-events-hypesquad.com
 official-form-hypesquad-events.com
@@ -5842,6 +5866,7 @@ premium-ds.com
 premium-egift.com
 premium-egifts.com
 premiumdiscord.com
+premiumdnitro.com
 premiums-discord.com
 premiums-nitro.com
 premiumsgift.com
@@ -5974,6 +5999,7 @@ register-formulary-hypesquad-events-team.com
 register-formulary-hypesquad-events.com
 register-formulary-hypesquadevents-team.com
 register-formulary-hypesquadevents.com
+register-formulary-info.com
 register-formulary-moderator-academy.com
 register-formulary-moderator-academy.org
 register-formulary-moderator.com
@@ -6004,6 +6030,7 @@ register-new-hypesquad.com
 register-new-moderator.com
 register-new-moderators-events.com
 register-newhypesquad-program.com
+register-official-hypesquad.com
 register-program-hypesquad.com
 register-programs-hypesquad.com
 register-testers-academy-moderators.com
@@ -9882,9 +9909,11 @@ vvvvw-roblox.com
 vvvw-roblox.com
 vvwvv-roblox-com.cf
 vvwvv-roblox.com
+vwvv-roblox.com
 vwvw--roblox.com
 vwvwvw-roblox.com
 vww-roblox.com
+wadiscord.com
 wallect-toolkit.com
 wallet-avalanche.com
 wallet-avax.com
@@ -9921,6 +9950,7 @@ wowfnatic.com
 wowfnatic.ru
 wowfnatic.site
 wvvvvv-roblox.com
+wvw-robloxk.com
 wvw-robloxl.com
 ww1.dicsordapp.com
 ww1.discordapp.org
@@ -9980,6 +10010,7 @@ www.ventasstore.xyz
 www.www.discord-nitro.ru.com
 www.xpromo-discord.com
 www.zipsetgo.com
+wwxv-roblox.com
 wwzv-roblox.com
 wyxy.ru
 x33681t2.beget.tech
