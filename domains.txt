@@ -8270,6 +8270,7 @@ school-formulary-moderating.com
 school-moderatingcertified-exam.com
 school-moderator.com
 school-moderators.com
+school-moderators.con
 school.moderatorexam.repl.co
 schoolmoderatingcertified.net
 schoolmoderato.com
@@ -12142,6 +12143,7 @@ team-hypesquadmod.com
 team-moderator.com
 team-navi.com
 team.the-shrubbery.co.uk
+teamdiscord.crisp.help
 teamfnattic.org.ru
 teamhype-form.com
 teamhypesquad-events.com
