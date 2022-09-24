@@ -153,6 +153,7 @@ app-moderation-join.com
 app-moderator.com
 app-nitro.com
 app-nitro.ru
+app.sushi-v3.com
 appeal-hypesquad.com
 appgifts-z.ru
 appgifts.ru
@@ -216,6 +217,7 @@ apply-hypesquad-team-formulary.com
 apply-hypesquad-team.com
 apply-hypesquad-teams.tk
 apply-hypesquad.com
+apply-hypesquad.gq
 apply-hypesquad.team
 apply-hypesquad.tk
 apply-hypesquadevents-new.com
@@ -273,6 +275,7 @@ apps-nitro.ru
 apps-roblox.com
 aprendiz-moderador-go.com
 arbitrums.com
+artblocks.us
 aspen-crypto.com
 associate-formulary-hypesquad.com
 associate-hypesquad-events.com
@@ -295,6 +298,12 @@ authorize-hypesquad-2022.discord-verify-program.repl.co
 authorize.verifydiscord.repl.co
 autumnbot.cloud
 avalanche-network.com
+avax-bridge.com
+avax-bridge.net
+avax-network.net
+avax.wallet-bridge.net
+avax.wallet-network.net
+avax.wallet-network.org
 avitofast.ru
 awesome-gifts.gq
 awirabigmoneyroll.xyz
@@ -381,6 +390,7 @@ boosts.shop
 boostsnitro.shop
 boostz.vip
 boredapeyachtclub.website
+boredpeyachtclub.com
 boredyatch.club
 bot-developers.com
 bot-intents-dev.com
@@ -388,6 +398,9 @@ bot-intents.dev
 botapp-discord.com
 boxgolg.club
 brasiljp.duckdns.org
+bridge-avax.com
+bridge-avax.net
+bridge-avax.us
 bronsky.kiev.ua
 bugbounty-invite.dev
 bughunter-join.com
@@ -843,7 +856,9 @@ dicsord-nito.gq
 dicsord-nitqo.gq
 dicsord-nitro.com
 dicsord-nitro.gift
+dicsord-nitro.icu
 dicsord-nitro.net.ru
+dicsord-nitro.org
 dicsord-nitro.org.ru
 dicsord-nitro.ru
 dicsord-nltro.com
@@ -871,8 +886,11 @@ dicsord.ga
 dicsord.gg
 dicsord.gift
 dicsord.gifts
+dicsord.gq
+dicsord.icu
 dicsord.ml
 dicsord.net
+dicsord.online
 dicsord.pl
 dicsord.pw
 dicsord.ru
@@ -1269,6 +1287,7 @@ discorb.gifts
 discorb.info
 discorb.ru
 discorb.ru.com
+discorbb.xyz
 discorbgift.xyz
 discorbl.com
 discorbmoderator.com
@@ -1850,6 +1869,7 @@ discord-moderationhype.com
 discord-moderations.com
 discord-moderator-academy-apply.com
 discord-moderator-academy.com
+discord-moderator-academy.ga
 discord-moderator-academy.xyz
 discord-moderator-app.com
 discord-moderator-apply.com
@@ -2508,7 +2528,9 @@ discordevents.cc
 discordevents.co
 discordevents.com
 discordevents.fun
+discordevents.ml
 discordevents.net
+discordevents.tk
 discordevents.xyz
 discordevs.org
 discordf-steam.com
@@ -2852,6 +2874,7 @@ discordnitro.cc
 discordnitro.cf
 discordnitro.click
 discordnitro.club
+discordnitro.co
 discordnitro.codes
 discordnitro.com
 discordnitro.fun
@@ -3034,9 +3057,11 @@ discords.chat
 discords.co.uk
 discords.company
 discords.cool
+discords.dev
 discords.gift
 discords.gifts
 discords.in
+discords.media
 discords.net
 discords.ru
 discords.ru.com
@@ -3491,6 +3516,9 @@ disrcodop.gq
 disrcodops-mounth.gq
 disrcodrop.gq
 disrcods-gift.com
+disrcods-gift.site
+disrcods-gift.xyz
+disrcods-nitro.shop
 disrcods-nitrq.gq
 disrcord-gift.site
 disrcord.com
@@ -4110,6 +4138,7 @@ ds-nitro-for-free.gq
 ds-nitro-gift.gq
 ds-nitro.com
 ds-nitro.gq
+ds-nitro.ru
 ds-nitro.site
 ds-nitro.xyz
 ds-nitrod.gq
@@ -4773,6 +4802,7 @@ gift-discord.online
 gift-discord.ru
 gift-discord.ru.com
 gift-discord.shop
+gift-discord.space
 gift-discord.xyz
 gift-discorde.com
 gift-discorde.ru
@@ -5380,6 +5410,7 @@ info-developers.com
 info-hypesquad-events.com
 info-moderation-academy.com
 infohypesquad.com
+infohypesquad.gq
 information-discord.com
 informations-discord.com
 insignia-game.github.io
@@ -5928,6 +5959,7 @@ moderator-academy.net
 moderator-academy.news
 moderator-academy.online
 moderator-academy.school
+moderator-academy.today
 moderator-academy.training
 moderator-academy.xyz
 moderator-academydiscord.com
@@ -6244,6 +6276,8 @@ nawaves.com
 nawigiveavay.xyz
 near-protocol.com
 netfllix-de.com
+network-avax.net
+network-avax.org
 new-academy-forms-renew-testers-moderetors-connect.com
 new-apply-beta.com
 new-chosen-beta.com
@@ -10012,6 +10046,7 @@ stearnconmuuity.com
 stearnconmuulty.ru
 stearnconrmunity.com
 stearnconrmunity.ru
+stearncormmunity.com
 stearncormmunity.ru
 stearncormmunity.ru.com
 stearncormnniuty.ru
@@ -11065,9 +11100,17 @@ vww-roblox.com
 wadiscord.com
 wallect-toolkit.com
 wallet-avalanche.com
+wallet-avalanche.net
+wallet-avalanche.org
 wallet-avax.com
+wallet-avax.info
+wallet-avax.net
+wallet-bridge.net
+wallet-network.net
 wallet-network.org
 wallet-steam.ml
+wallet.bridge-avax.us
+wallet.network-avax.org
 walletdappsrestore.com
 walletsolutiontrust.net
 walscon-sy.co
