@@ -471,6 +471,7 @@ bridge-avax.net
 bridge-avax.us
 bronsky.kiev.ua
 bug-form.com
+bug-hunters-login.com
 bugbounty-invite.dev
 bughunter-join.com
 bughunter-program.com
@@ -2825,6 +2826,7 @@ discordaspp.com
 discordatapp.com
 discordauction.com
 discordauction.ru
+discordavert.com
 discordbackup.xyz
 discordbagequiz.cf
 discordban.com
@@ -3465,6 +3467,7 @@ discordqr.com
 discordqr.org
 discordr-gift.ru
 discordr.xyz
+discordrareserver.xyz
 discordre.store
 discordrectify.com
 discordregistermoderator.com
@@ -3955,6 +3958,7 @@ discrord-nitr.online
 discrord-nitr.ru
 discrord.com
 discrord.gq
+discrord2022.site
 discrordapp.com
 discrrd.com
 discrrdapp.com
@@ -4944,6 +4948,7 @@ dscordgift.shop
 dscordgift.xyz
 dscordgiftn.xyz
 dscordgifts.shop
+dscordmedal.xyz
 dscordnitro.xyz
 dscordpromotions.co
 dscordpromotions.xyz
@@ -7369,6 +7374,7 @@ new-apply-hypeteams.com
 new-chosen-beta.com
 new-collects.xyz
 new-connect-testers-forms-academy-moderator.com
+new-contact-hype-forms.com
 new-drop.net.ru
 new-form-hypesquad-exam.com
 new-form-hypesquad.com
@@ -11224,6 +11230,7 @@ steannconnunity.site
 steanncummiunity.com
 steanncummlunity.com
 steanncunmmiunyti.com
+steanncunmmlunyti.com
 steanpowered.net.ru
 steanpowered.ru
 steanpowered.xyz
@@ -12587,6 +12594,7 @@ wwu-roblox.com
 wwvv-roblcx.com
 wwvvv-roblox.com
 www-hypesquad-event.com
+www-robiox-web.com
 www-robiox.com.nf
 www-roblax.com
 www-robllox.com
